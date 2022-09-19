@@ -8,7 +8,7 @@ html,body{
     color: #666;
 }
 .pimg1{
-    background-image: url(https://github.com/aadilahmed07/firstpage.git.io/blob/main/1.jpg?raw=true).jpg);
+    background-image: url(https://github.com/aadilahmed07/firstpage.git.io/blob/main/1.jpg?raw=true);
     min-height: 100%;   position: relative;
     background-position: center;
     background-size: cover;
